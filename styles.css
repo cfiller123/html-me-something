@@ -17,6 +17,10 @@ header {
     height: 250px;
 }
 
+.space {
+    padding: 5px;
+}
+
 #navigation {
     float: left;
     width: 20%;
